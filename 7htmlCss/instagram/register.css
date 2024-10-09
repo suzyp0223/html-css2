@@ -28,7 +28,6 @@
 
 img {
   width: 190px;
-  /* margin-bottom: -10px; */
 }
 
 .heading {
@@ -50,7 +49,6 @@ img {
   border-radius: 8px;
   height: 33px;
   padding: 7px 16px;
-
 }
 
 .facebook:hover {
@@ -103,7 +101,7 @@ input {
   padding: 9px 0 7px 8px;
   background: rgb(250, 250, 250);
   border: 1px solid lightgray;
-  cursor: pointer;
+  border-radius: 3px;
 }
 
 input::placeholder {
